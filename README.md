@@ -13,7 +13,7 @@ https://itazuraneko.neocities.org/gra... | 日本語文法辞典(全集) | DOJG
 
 ## How to study grammar/how to use the dicts:  
 I'd still recommend you go through a basic grammar guide first, even with these dicts in hand.  
-After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like.  
+After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. Then look up the grammar points you come across in your immersion and create cards as necessary. I've found that I rarely need to google grammar points now after using these dicts.
   
   
 
