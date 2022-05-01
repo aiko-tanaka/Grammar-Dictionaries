@@ -11,6 +11,11 @@ https://nihongokyoshi-net.com/jlpt-gr... | JLPT文法解説まとめ | Nihongo K
 https://itazuraneko.neocities.org/gra... | どんなときどう使う 日本語表現文型辞典 | Donna Toki  
 https://itazuraneko.neocities.org/gra... | 日本語文法辞典(全集) | DOJG  
 
+How to study grammar/how to use the dicts:  
+I'd still recommend you go through a basic grammar guide first, even with these dicts in hand.  
+After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like.  
+
+
 
 In case some people might want to scrape other sites to create another dict, I also upload the scripts I used just to give you guys an idea. It's a really half-assed script though and I bet you guys can come up with a better one.
 
