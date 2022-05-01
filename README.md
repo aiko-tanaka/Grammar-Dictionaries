@@ -26,7 +26,9 @@ After that, i'd recommend that you at least skim through a list of grammar point
 
 **Limitations**  
 Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to Ichidan Verbs (v1). For example: https://nihongonosensei.net/?p=18790 (～されるまま／されるがままに), the yomichan entries that can be automatically made from these are されるまま and されるがままに.  
-However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed ～されるまま／されるがままに as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the godan verbs (v5), which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts)
+However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed ～されるまま／されるがままに as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the godan verbs (v5), which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts).
+
+Again, since these dictionaries aren't perfect and yomichan's deconjugation isn't perfect either (particularly for very colloquial expression), you could try deconjugating(or converting a godan conjugation to an ichidan/suru-verb conjugation) something that looks like a grammar point before looking it up on yomichan (it works sometimes).
   
   
 ## Interested in creating your own grammar dict?  
