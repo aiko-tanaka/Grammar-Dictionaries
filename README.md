@@ -4,7 +4,7 @@ Dictionaries: https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdL
 
 Demo: https://www.youtube.com/watch?v=EkgBnkupuVQ
 
-The dicts:
+The dicts:  
 website | Yomichan dict name | nickname  
 https://nihongonosensei.net/?page_id=... | 毎日のんびり日本語教師 | Nihongo no sensei  
 https://nihongokyoshi-net.com/jlpt-gr... | JLPT文法解説まとめ | Nihongo Kyoushi  
