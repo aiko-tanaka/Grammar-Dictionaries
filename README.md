@@ -7,9 +7,9 @@ Demo: https://www.youtube.com/watch?v=EkgBnkupuVQ
 ## The dicts:  
 website | Yomichan dict name | nickname | With or w/o deconjugation support   
 https://nihongonosensei.net/?page_id=10246 | 毎日のんびり日本語教師 | Nihongo no sensei | Y  
-https://nihongokyoshi-net.com/jlpt-gr... | JLPT文法解説まとめ | Nihongo Kyoushi | N  
-https://itazuraneko.neocities.org/gra... | どんなときどう使う 日本語表現文型辞典 | Donna Toki | Y  
-https://itazuraneko.neocities.org/gra... | 日本語文法辞典(全集) | DOJG | N  
+https://nihongokyoshi-net.com/jlpt-grammars/ | JLPT文法解説まとめ | Nihongo Kyoushi | N  
+https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html | どんなときどう使う 日本語表現文型辞典 | Donna Toki | Y  
+https://itazuraneko.neocities.org/grammar/dojgmain.html | 日本語文法辞典(全集) | DOJG | N  
 
 **Additional dict info:**   
 Only 毎日のんびり日本語教師 and どんなときどう使う 日本語表現文型辞典 have deconjugation support.  
