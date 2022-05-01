@@ -27,6 +27,7 @@ After that, i'd recommend that you at least skim through a list of grammar point
   
 ## Interested in creating your own grammar dict?  
 In case some people might want to scrape other sites to create another dict, I also uploaded the scripts I used just to give you guys an idea. It's a really half-assed script though and I bet you guys can come up with a better one.  
+
 Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I only intended to create a dict containing only the grammar points for yomichan parsing and its only content would be the link, but then I went further for some reason. If you're a bit short on time, just keep in mind that the content isn't even the most important part of grammar dictionaries, it's the **parsing** part (because tbh, you'd be surprised what things count as a grammar point) that's most important. After yomichan has parsed whatever shit that is, you could simply right-click and google the grammar point, or if you have the link then click the link. That'd be the most bare-bones but still very powerful grammar dict.  
 Remember to share them though, even if they're just barebones :D
 
