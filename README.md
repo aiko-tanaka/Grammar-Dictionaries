@@ -28,7 +28,7 @@ After that, i'd recommend that you at least skim through a list of grammar point
 
 In case some people might want to scrape other sites to create another dict, I also upload the scripts I used just to give you guys an idea. It's a really half-assed script though and I bet you guys can come up with a better one.
 
-## For those interesting in the inner workings of the dicts:  
+## For those interested in the inner workings of the dicts:  
 The 4th entry of a dictionary entry represents its 'part of speech' (e.g. vs, vk, v1, v5, adj-i, etc., empty=noun). It's responsible for yomichan's deconjugation stuff.
 
 ## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
