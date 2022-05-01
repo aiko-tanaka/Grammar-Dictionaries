@@ -13,10 +13,10 @@ https://itazuraneko.neocities.org/gra... | 日本語文法辞典(全集) | DOJG 
 
 **Additional dict info:**   
 Only 毎日のんびり日本語教師 and どんなときどう使う 日本語表現文型辞典 have deconjugation support.  
-**DOJG** - the first dict I made. Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links
-**Donna Toki** - non-clickable external links
-**Nihongo Kyoushi** - I used a different web scraping script here (as opposed to Nihongo no sensei), as a result some of the entries might have missing examples sentences, but whatever, just click the links; clickable links
-**Nihongo no sensei** - most complete of the four with the best formatting; clickable links
+**DOJG** - the first dict I made. Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links  
+**Donna Toki** - non-clickable external links  
+**Nihongo Kyoushi** - I used a different web scraping script here (as opposed to Nihongo no sensei), as a result some of the entries might have missing examples sentences, but whatever, just click the links; clickable links  
+**Nihongo no sensei** - most complete of the four with the best formatting; clickable links  
 
 
 ## How to study grammar/how to use the dicts:  
