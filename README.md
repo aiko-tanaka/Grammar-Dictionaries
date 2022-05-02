@@ -40,7 +40,7 @@ Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I
 Remember to share them though, even if they're just barebones :D
 
 Here are a few of the sites that I think would be worth looking into:  
-https://www.edewakaru.com/  
+https://www.edewakaru.com/archives/cat_179055.html
 https://jlptgrammarlist.neocities.org/  
 https://jn1et.com/jlpt/  
 https://nihon5-bunka.net/japanese-grammars/  
