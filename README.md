@@ -5,7 +5,8 @@ Dictionaries: https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdL
 Demo: https://www.youtube.com/watch?v=EkgBnkupuVQ **(turn the captions on)**
 
 ## The dicts:  
-website | Yomichan dict name | nickname | With or w/o deconjugation support   
+website | Yomichan dict name | nickname | With or w/o deconjugation support | 
+:-- | :-- | :-- | :-- 
 https://nihongonosensei.net/?page_id=10246 | 毎日のんびり日本語教師 | Nihongo no sensei | Y  
 https://nihongokyoshi-net.com/jlpt-grammars/ | JLPT文法解説まとめ | Nihongo Kyoushi | N  
 https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html | どんなときどう使う 日本語表現文型辞典 | Donna Toki | Y  
