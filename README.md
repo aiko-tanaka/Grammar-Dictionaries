@@ -26,7 +26,9 @@ After that, i'd recommend that you at least skim through a list of grammar point
 
 **Limitations**  
 Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to Ichidan Verbs (v1) and suru-verbs (vs). For example: https://nihongonosensei.net/?p=18790 (～されるまま／されるがままに), the yomichan entries that can be automatically made from these are されるまま and されるがままに.  
-However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed ～されるまま／されるがままに as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the godan verbs (v5), which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts).
+However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed ～されるまま／されるがままに as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the godan verbs (v5), which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts).  
+
+For grammar points structured as なに～なに, e.g. **〜か〜ないかのうちに**, it's usually best to break them apart into their own entry (e.g. one entry for **か** another for **ないかのうちに**). It's obvious though that か is just too vague and common to be an entry so i only made ないかのうちに as an entry. Feel free to sent a PR though if you think I've made a mistake with some of the entries (probably did), but do note that having too many vague entries can make yomichan hard to navigate (e.g. なになに～なに, scanning for **ない** would give you a LOT of entries, most of which you probably already know anyway).
 
 Again, since these dictionaries aren't perfect and yomichan's deconjugation isn't perfect either (particularly for very colloquial expressions), you could try deconjugating(or converting a godan conjugation to an ichidan/suru-verb conjugation) something that looks like a grammar point before looking it up on yomichan (it works sometimes).
   
@@ -38,7 +40,7 @@ Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I
 Remember to share them though, even if they're just barebones :D
 
 ## For those interested in the inner workings of the dicts:  
-The 4th entry of a dictionary entry represents its 'part of speech' (e.g. vs, vk, v1, v5, adj-i, etc., empty=noun). It's responsible for yomichan's deconjugation stuff.
+The 4th entry of a dictionary entry represents its 'part of speech(p.o.s.)' (e.g. vs, vk, v1, v5, adj-i, etc., empty=noun). It's responsible for yomichan's deconjugation stuff.
 
 ## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
 1. Complete the part of speech info (classify according to these: vs, vk, v1, v5, adj-i), afaik, only these 5 part of speech markers work with yomichan, if it's a noun or already conjugated, leave it blank
@@ -47,6 +49,14 @@ However, for example the grammar point `ないこともない`, if you add its p
 3. Send a PR I guess
 
 ## Corrections / Incomplete Info
+For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a script to generate the reading when the reading info isn't available, so look out for reading mistakes. 
+
 ### DOJG
-Incomplete readings, incomplete entries (particularly for 基本), no deconjugation info
+Incomplete readings(there might be some entries where the dictionary entry is also the reading), incomplete entries (particularly for 基本), no deconjugation/p.o.s. info
+### Nihongo Kyoushi
+No deconjugation/p.o.s. info, missing entries (e.g. 〜上で（〜てから）), some entries have the example sentences cut off, some entries might have ads at the end; also, some entries have wildly differing HTML structures (e.g. some use tables, some have more than one 例文 sections), etc.
+### Donna Toki
+Might have a few entries missing
+### Nihongo no Sensei
+Might have a few entries missing?, a few reading mistakes maybe, a few ads at the end of some entries maybe
 
