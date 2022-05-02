@@ -5,12 +5,12 @@
 [Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
 ## The dicts
-Website | Yomichan dict name | Nickname | With or w/o deconjugation support | 
-:-- | :-- | :-- | :-- 
-[nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Nihongo no sensei | Y  
-[nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Nihongo Kyoushi | N  
-[donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Donna Toki | Y  
-[dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | DOJG | N  
+Website | Yomichan dict name | With or w/o deconjugation support | 
+:-- | :-- | :-- 
+[nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Y  
+[nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | N  
+[donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Y  
+[dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | N  
 
 **Additional dict info:**   
 Only `毎日のんびり日本語教師` and `どんなときどう使う 日本語表現文型辞典` have deconjugation support.  
