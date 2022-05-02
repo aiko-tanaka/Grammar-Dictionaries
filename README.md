@@ -46,6 +46,7 @@ https://jlptgrammarlist.neocities.org/
 https://jn1et.com/jlpt/  
 https://nihon5-bunka.net/japanese-grammars/  
 https://japanese-bank.com/jlpt-grammar-all/  
+https://itazuraneko.neocities.org/grammar/masterreference.html#handbook  
 
 
 ## For those interested in the inner workings of the dicts:  
