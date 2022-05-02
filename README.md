@@ -41,7 +41,7 @@ Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I
 Remember to share them though, even if they're just barebones :D
 
 Here are a few of the sites that I think would be worth looking into:  
-https://www.edewakaru.com/archives/cat_179055.html
+https://www.edewakaru.com/archives/cat_179055.html  
 https://jlptgrammarlist.neocities.org/  
 https://jn1et.com/jlpt/  
 https://nihon5-bunka.net/japanese-grammars/  
@@ -65,7 +65,7 @@ Incomplete readings(there might be some entries where the dictionary entry is al
 ### Nihongo Kyoushi
 No deconjugation/p.o.s. info, missing entries (e.g. 〜上で（〜てから）), some entries have the example sentences cut off, some entries might have ads at the end; also, some entries have wildly differing HTML structures (e.g. some use tables, some have more than one 例文 sections), etc.
 ### Donna Toki
-Might have a few entries missing
+Might have a few entries missing, incomplete kanjification (all of donna toki's entries are in hiragana, I converted some of them into kanji but not all)
 ### Nihongo no Sensei
 Might have a few entries missing?, a few reading mistakes maybe, a few ads at the end of some entries maybe
 
