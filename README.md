@@ -39,6 +39,14 @@ In case some people might want to scrape other sites to create another dict, I a
 Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I only intended to create a dict containing only the grammar points for yomichan parsing and its only content would be the link, but then I went further for some reason. If you're a bit short on time, just keep in mind that the content isn't even the most important part of grammar dictionaries, it's the **parsing** part (because tbh, you'd be surprised what things count as a grammar point) that's most important. After yomichan has parsed whatever shit that is, you could simply right-click and google the grammar point, or if you have the link then click the link. That'd be the most bare-bones but still very powerful grammar dict.  
 Remember to share them though, even if they're just barebones :D
 
+Here are a few of the sites that I think would be worth looking into:  
+https://www.edewakaru.com/  
+https://jlptgrammarlist.neocities.org/  
+https://jn1et.com/jlpt/  
+https://nihon5-bunka.net/japanese-grammars/  
+https://japanese-bank.com/jlpt-grammar-all/  
+
+
 ## For those interested in the inner workings of the dicts:  
 The 4th entry of a dictionary entry represents its 'part of speech(p.o.s.)' (e.g. vs, vk, v1, v5, adj-i, etc., empty=noun). It's responsible for yomichan's deconjugation stuff.
 
