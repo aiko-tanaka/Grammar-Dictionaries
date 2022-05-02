@@ -1,8 +1,8 @@
 ## Grammar-Dictionaries
 
-Dictionaries: https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq
+[Link to the Dictionaries](https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq)
 
-Demo: https://www.youtube.com/watch?v=EkgBnkupuVQ **(turn the captions on)**
+[Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
 ## The dicts:  
 website | Yomichan dict name | nickname | With or w/o deconjugation support | 
