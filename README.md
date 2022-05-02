@@ -25,7 +25,7 @@ Only `毎日のんびり日本語教師` and `どんなときどう使う 日本
 I'd still recommend you go through a basic grammar guide first, even with these dicts in hand.  
 After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. Then look up the grammar points you come across in your immersion and create cards as necessary. I've found that I rarely need to google grammar points now after using these dicts.  
 
-**Limitations**  
+### Limitations 
 Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to `Ichidan Verbs (v1)` and `suru-verbs (vs)`. For example: https://nihongonosensei.net/?p=18790 `(～されるまま／されるがままに)`, the yomichan entries that can be automatically made from these are `されるまま` and `されるがままに`.  
 However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed `～されるまま／されるがままに` as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the `godan verbs (v5)`, which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts).  
 
@@ -40,7 +40,7 @@ In case some people might want to scrape other sites to create another dict, I a
 Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I only intended to create a dict containing only the grammar points for yomichan parsing and its only content would be the link, but then I went further for some reason. If you're a bit short on time, just keep in mind that the content isn't even the most important part of grammar dictionaries, it's the **parsing** part (because tbh, you'd be surprised what things count as a grammar point) that's most important. After yomichan has parsed whatever shit that is, you could simply right-click and google the grammar point, or if you have the link then click the link. That'd be the most bare-bones but still very powerful grammar dict.  
 Remember to share them though, even if they're just barebones :D
 
-Here are a few of the sites that I think would be worth looking into:  
+### Here are a few of the sites that I think would be worth looking into:  
 https://www.edewakaru.com/archives/cat_179055.html  
 https://jlptgrammarlist.neocities.org/  
 https://jn1et.com/jlpt/  
