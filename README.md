@@ -1,10 +1,10 @@
-## Grammar-Dictionaries
+# Yomichan Grammar Dictionaries
 
 [Link to the Dictionaries](https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq)
 
 [Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
-## The dicts:  
+## The dicts
 Website | Yomichan dict name | Nickname | With or w/o deconjugation support | 
 :-- | :-- | :-- | :-- 
 [nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Nihongo no sensei | Y  
@@ -21,7 +21,7 @@ Only `毎日のんびり日本語教師` and `どんなときどう使う 日本
 **Nihongo no sensei** - most complete of the four with the best formatting; clickable links; I also suggest you download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese  
 
 
-## How to study grammar/how to use the dicts:  
+## How to study grammar/how to use the dicts
 I'd still recommend you go through a basic grammar guide first, even with these dicts in hand.  
 After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. Then look up the grammar points you come across in your immersion and create cards as necessary. I've found that I rarely need to google grammar points now after using these dicts.  
 
