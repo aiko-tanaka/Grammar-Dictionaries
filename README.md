@@ -59,7 +59,7 @@ However, for example the grammar point `ないこともない`, if you add its p
 3. Send a PR I guess
 
 ## Corrections / Incomplete Info
-For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a script to generate the reading when the reading info isn't available, so look out for reading mistakes. 
+For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes. 
 
 ### DOJG
 Incomplete readings(there might be some entries where the dictionary entry is also the reading), incomplete entries (particularly for 基本), no deconjugation/p.o.s. info
