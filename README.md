@@ -44,3 +44,9 @@ The 4th entry of a dictionary entry represents its 'part of speech' (e.g. vs, vk
 1. Complete the part of speech info (classify according to these: vs, vk, v1, v5, adj-i), afaik, only these 5 part of speech markers work with yomichan, if it's a noun or already conjugated, leave it blank
 2. There are some entries that would be worth duplicating and deconjugating. For example, let's say there's a grammar point called をちゅうしんにする, if you add its p.o.s., i.e. `vs` (suru-verb), yomichan would catch をちゅうしんにして, をちゅうしんにしました, etc.   
 However, for example the grammar point `ないこともない`, if you add its p.o.s., `adj-i`, it'd catch ないこともなくて, ないこともなく, etc. but it won't catch `ないこともありません` , in order for yomichan to catch that, you'll have to create a fake entry, `ないこともある`.
+3. Send a PR I guess
+
+## Corrections / Incomplete Info
+### DOJG
+Incomplete readings, incomplete entries (particularly for 基本), no deconjugation info
+
