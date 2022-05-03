@@ -57,7 +57,8 @@ The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.
 1. Complete the part of speech info (classify according to these: `vs, vk, v1, v5, vz, adj-i`), afaik, only these 6 part of speech markers work with yomichan (according to the [yomichan deinflection rules](https://github.com/FooSoft/yomichan/blob/master/ext/data/deinflect.json) or [the schema](https://github.com/FooSoft/yomichan/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json#L304)), if it's a noun or already conjugated, leave it blank
 2. There are some entries that would be worth duplicating and deconjugating. For example, let's say there's a grammar point called `をちゅうしんにする`, if you add its p.o.s., i.e. `vs` `(suru-verb)`, yomichan would catch `をちゅうしんにして, をちゅうしんにしました, etc.`   
 However, for example the grammar point `ないこともない`, if you add its p.o.s., `adj-i`, it'd catch `ないこともなくて, ないこともなく, etc.` but it won't catch `ないこともありません` , in order for yomichan to catch that, you'll have to create a fake entry, `ないこともある`.
-3. Send a PR I guess
+3. You might want to check [this](https://github.com/FooSoft/yomichan/blob/master/test/data/dictionaries/valid-dictionary1/term_bank_1.json) and the other grammar dicts for examples on how to format entries.
+4. Send a PR I guess
 
 ## Corrections / Incomplete Info
 For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes. 
