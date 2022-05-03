@@ -51,10 +51,10 @@ https://itazuraneko.neocities.org/grammar/masterreference.html#handbook
 
 
 ## For those interested in the inner workings of the dicts:  
-The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, adj-i, etc., empty=noun)`. It's responsible for yomichan's deconjugation stuff.
+The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, vz, adj-i, etc., empty=noun)`. It's responsible for yomichan's deconjugation stuff.
 
 ## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
-1. Complete the part of speech info (classify according to these: `vs, vk, v1, v5, adj-i`), afaik, only these 5 part of speech markers work with yomichan, if it's a noun or already conjugated, leave it blank
+1. Complete the part of speech info (classify according to these: `vs, vk, v1, v5, vz, adj-i`), afaik, only these 6 part of speech markers work with yomichan (according to the [yomichan deinflection rules](https://github.com/FooSoft/yomichan/blob/master/ext/data/deinflect.json)), if it's a noun or already conjugated, leave it blank
 2. There are some entries that would be worth duplicating and deconjugating. For example, let's say there's a grammar point called `をちゅうしんにする`, if you add its p.o.s., i.e. `vs` `(suru-verb)`, yomichan would catch `をちゅうしんにして, をちゅうしんにしました, etc.`   
 However, for example the grammar point `ないこともない`, if you add its p.o.s., `adj-i`, it'd catch `ないこともなくて, ないこともなく, etc.` but it won't catch `ないこともありません` , in order for yomichan to catch that, you'll have to create a fake entry, `ないこともある`.
 3. Send a PR I guess
