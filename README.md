@@ -23,8 +23,13 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 
 
 ## How to study grammar/how to use the dicts
-I'd still recommend you go through a basic grammar guide first, even with these dicts in hand.  
-After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. Then look up the grammar points you come across in your immersion and create cards as necessary. I've found that I rarely need to google grammar points now after using these dicts.  
+### Usage   
+I'd still recommend you go through a basic grammar guide first, even with these dicts in hand (if you're a beginner anyway).  
+After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. Then look up the grammar points you come across in your immersion and create cards as necessary. The more you immerse and look stuff up, the more you'll start to get a feel of what structures look like a grammar point, tbh, you'd probably surprised that what looks like some random string of hiragana scribbles actually turns out to be a grammar point.  
+
+When using you common across patterns without an adequate explanation inside the grammar dicts/monolingual dicts, just right click whatever it is that yomichan parsed and do a google search (something like `<grammar_pt> 文法解説`). I use a plugin called [https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga](Context Menu Search) to make such searches easier.
+
+
 
 ### Limitations 
 Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to `Ichidan Verbs (v1)` and `suru-verbs (vs)`. For example: https://nihongonosensei.net/?p=18790 `(～されるまま／されるがままに)`, the yomichan entries that can be automatically made from these are `されるまま` and `されるがままに`.  
