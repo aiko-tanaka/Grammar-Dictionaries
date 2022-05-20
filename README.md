@@ -24,7 +24,7 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 
 ## How to study grammar/how to use the dicts
 ### Usage   
-* I'd still recommend you go through a basic grammar guide first, even with these dicts in hand (if you're a beginner anyway). 
+* Go through a basic grammar guide first, even with these dicts in hand (if you're a beginner anyway). 
 * I recommend going through Tae Kim first, then Cure Dolly. 
 * For Cure Dolly in particular I recommend that you at least go through the first 20 or so videos just so that when you come across a grammar point, you aren't just blindly memorizing 'rules', instead you realize that most of the time, these 'grammar points' can make sense when you look at their components.  
   
