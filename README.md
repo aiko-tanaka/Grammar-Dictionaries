@@ -5,7 +5,7 @@
 [Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
 ## The dicts
-Website | Yomichan dict name | With or w/o deconjugation support | 
+Website | Yomichan dict name | Deconjugation support | 
 :-- | :-- | :-- 
 [nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Y  
 [nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | N  
