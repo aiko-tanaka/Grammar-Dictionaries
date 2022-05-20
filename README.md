@@ -12,7 +12,7 @@ Website | Yomichan dict name | With or w/o deconjugation support |
 [donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Y  
 [dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | N  
 
-**Additional dict info:**   
+### **Additional dict info:**   
 Only `毎日のんびり日本語教師` and `どんなときどう使う 日本語表現文型辞典` have deconjugation support.  
 If some of the dicts fail to import, check that you're using at least Yomichan version `22.4.4.0`.
 
@@ -37,34 +37,34 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 
 
 ### Limitations 
-Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to `Ichidan Verbs (v1)` and `suru-verbs (vs)`. For example: https://nihongonosensei.net/?p=18790 `(～されるまま／されるがままに)`, the yomichan entries that can be automatically made from these are `されるまま` and `されるがままに`.  
+* Do note however that these still do not account for every conjugation possible because most of these sites list the conjugations relative to `Ichidan Verbs (v1)` and `suru-verbs (vs)`. For example: https://nihongonosensei.net/?p=18790 `(～されるまま／されるがままに)`, the yomichan entries that can be automatically made from these are `されるまま` and `されるがままに`.  
 However, take a look the example sentences. You'll see **言われるがままに**, unfortunately, they only listed `～されるまま／されるがままに` as the entries and not **われるがままに**, which makes sense because otherwise you'll have to list every conjugation for the `godan verbs (v5)`, which is a huge pain in the ass and probably why they didn't do it and also why I won't (just takes too much time for marginal benefit). IMO, immersion would bridge this gap anyway. (but if someone can think of a solution to this, feel free to edit and reupload any of the dicts).  
 
-For grammar points structured as `なになに～なになに`, e.g. **〜か〜ないかのうちに**, it's usually best to break them apart into their own entry (e.g. one entry for **か** another for **ないかのうちに**). It's obvious though that か is just too vague and common to be an entry so i only made `ないかのうちに` as an entry. Feel free to send a PR though if you think I've made a mistake with some of the entries (probably did), but do note that having too many vague entries can make yomichan hard to navigate (e.g. `なになに～なに`, scanning for **ない** would give you a LOT of entries, most of which you probably already know anyway).
+* For grammar points structured as `なになに～なになに`, e.g. **〜か〜ないかのうちに**, it's usually best to break them apart into their own entry (e.g. one entry for **か** another for **ないかのうちに**). It's obvious though that か is just too vague and common to be an entry so i only made `ないかのうちに` as an entry. Feel free to send a PR though if you think I've made a mistake with some of the entries (probably did), but do note that having too many vague entries can make yomichan hard to navigate (e.g. `なになに～なに`, scanning for **ない** would give you a LOT of entries, most of which you probably already know anyway).
 
-Again, since these dictionaries aren't perfect and yomichan's deconjugation isn't perfect either (particularly for very colloquial expressions), you could try deconjugating(or converting a godan conjugation to an ichidan/suru-verb conjugation) something that looks like a grammar point before looking it up on yomichan (it works sometimes).
+* These dictionaries aren't perfect and yomichan's deconjugation isn't perfect either (particularly for very colloquial expressions), you could try deconjugating(or converting a godan conjugation to an ichidan/suru-verb conjugation) something that looks like a grammar point before looking it up on yomichan (it works sometimes). If you're a bit more advanced, you could try adding regex replacements rules inside yomichan or even editing the [deinflection json file](https://github.com/FooSoft/yomichan/blob/master/ext/data/deinflect.json).
   
   
 ## Interested in creating your own grammar dict?  
-In case some people might want to scrape other sites to create another dict, I also uploaded the scripts I used just to give you guys an idea. It's a really half-assed script though and I bet you guys can come up with a better one.  
+* In case some people might want to scrape other sites to create another dict, I also uploaded the scripts I used just to give you guys an idea. It's a really half-assed script though and I bet you guys can come up with a better one.  
 
-Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I only intended to create a dict containing only the grammar points for yomichan parsing and its only content would be the link, but then I went further for some reason. If you're a bit short on time, just keep in mind that the content isn't even the most important part of grammar dictionaries, it's the **parsing** part (because tbh, you'd be surprised what things count as a grammar point) that's most important. After yomichan has parsed whatever shit that is, you could simply right-click and google the grammar point, or if you have the link then click the link. That'd be the most bare-bones but still very powerful grammar dict.  
+* Btw, when I first tried to scrape Nihongo Sensei and Nihongo Kyoushi, at first I only intended to create a dict containing only the grammar points for yomichan parsing and its only content would be the link, but then I went further for some reason. If you're a bit short on time, just keep in mind that the content isn't even the most important part of grammar dictionaries, it's the **parsing** part (because tbh, you'd be surprised what things count as a grammar point) that's most important. After yomichan has parsed whatever shit that is, you could simply right-click and google the grammar point, or if you have the link then click the link. That'd be the most bare-bones but still very powerful grammar dict.  
 Remember to share them though, even if they're just barebones :D
 
 ### Here are a few of the sites that I think would be worth looking into:  
-https://www.edewakaru.com/archives/cat_179055.html  
-https://jlptgrammarlist.neocities.org/  
-https://jn1et.com/jlpt/  
-https://nihon5-bunka.net/japanese-grammars/  
-https://japanese-bank.com/jlpt-grammar-all/  
-https://itazuraneko.neocities.org/grammar/masterreference.html#handbook  
+* https://www.edewakaru.com/archives/cat_179055.html  
+* https://jlptgrammarlist.neocities.org/  
+* https://jn1et.com/jlpt/  
+* https://nihon5-bunka.net/japanese-grammars/  
+* https://japanese-bank.com/jlpt-grammar-all/  
+* https://itazuraneko.neocities.org/grammar/masterreference.html#handbook  
 
 
 ## For those interested in the inner workings of the dicts:  
-The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, vz, adj-i, etc., empty=noun)`. It's responsible for yomichan's deconjugation stuff.
+* The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, adj-i, empty=noun)`. It's responsible for yomichan's deconjugation stuff.
 
 ## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
-(Send me a message first if you plan to edit any of the dicts just to ensure that we aren't doing something redundant, I'm currently editing nihongo kyoushi, might take a few months)
+* (Send me a message first if you plan to edit any of the dicts just to ensure that we aren't doing something redundant, I'm currently editing nihongo kyoushi, might take a few months)
 
 1. Complete the part of speech info (classify according to these: `vs, vk, v1, v5, vz, adj-i`), afaik, only these 6 part of speech markers work with yomichan (according to the [yomichan deinflection rules](https://github.com/FooSoft/yomichan/blob/master/ext/data/deinflect.json) or [the schema](https://github.com/FooSoft/yomichan/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json#L304)), if it's a noun or already conjugated, leave it blank
 2. There are some entries that would be worth duplicating and deconjugating. For example, let's say there's a grammar point called `をちゅうしんにする`, if you add its p.o.s., i.e. `vs` `(suru-verb)`, yomichan would catch `をちゅうしんにして, をちゅうしんにしました, etc.`   
