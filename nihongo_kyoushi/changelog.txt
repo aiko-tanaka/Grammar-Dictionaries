@@ -3,7 +3,7 @@ nihongo net v 1.02
 completed pos info
 
 add missing entries
-fix spaces @ local and global tags
+fix spaces @ global tags
 separate each level into their own term bank
 N1: 	added ・〜なり
 
