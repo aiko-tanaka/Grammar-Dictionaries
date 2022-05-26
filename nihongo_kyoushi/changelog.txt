@@ -1,0 +1,23 @@
+nihongo net v 1.02
+
+completed pos info
+
+add missing entries
+fix spaces @ local and global tags
+separate each level into their own term bank
+N1: 	added ・〜なり
+
+N2: 	・〜あまり
+	・〜上で（〜てから）
+	・〜限り（限界）
+	・〜ものだ（感慨）
+
+N3:	・〜かわりに（代償・交換条件）
+	・〜によって（対応）
+	・〜によって（手段・方法）
+	・〜ば〜のに（反実仮想） (check " marks, escape them)
+	・〜ほど（相関関係）
+	・〜ほど（程度）
+	・まるで〜みたいだ（比喩）
+	・〜も〜ば〜も(useless entry, too easy)
+	・〜を通して / 〜を通じて（期間）
