@@ -24,12 +24,13 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 
 ## How to study grammar/how to use the dicts
 ### Usage   
-* Go through a basic grammar guide first, even with these dicts in hand (if you're a beginner anyway). 
+* Go through a basic grammar guide first, even with these dicts in hand (if you're a beginner anyway).  
+Unless you've had some basic grammar study and a bit of immersion experience, some of the dictionaries might simply confuse you so do that first.
 * I recommend going through Tae Kim first, then Cure Dolly. 
-* For Cure Dolly in particular I recommend that you at least go through the first 20 or so videos just so that when you come across a grammar point, you aren't just blindly memorizing 'rules', instead you realize that most of the time, these 'grammar points' can make sense when you look at their components.  
+* For Cure Dolly in particular I recommend that you at least go through the first 20-30 or so videos just so that when you come across a grammar point, you aren't just blindly memorizing 'rules', instead you realize that most of the time, these 'grammar points' can make sense when you look at their components.  
   
   
-* After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. (i.e. go to one of the sites I listed above and try hovering over those grammar points, then pick a few grammar points and try hovering of the grammar points in the context of the sentence, similar to what I did on my youtube demo).
+* After that, i'd recommend that you at least skim through a list of grammar points to get a feel for what they look like. (i.e. go to one of the sites I listed above and try hovering over those grammar points, then try hovering over the grammar points in the context of the sentence, similar to what I did on my youtube demo).
 * Then look up the grammar points you come across in your immersion and create cards as necessary. The more you immerse and look stuff up, the more you'll start to get a feel of what structures look like a grammar point, tbh, you'd probably surprised that what looks like some random string of hiragana scribbles actually turns out to be a grammar point.  
   
 * When you common across patterns without an adequate explanation inside the grammar dicts/monolingual dicts, just right click whatever it is that yomichan parsed and do a google search (something like `<grammar_pt> 文法解説`). I use a plugin called [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) to make such searches easier.
