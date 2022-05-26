@@ -34,6 +34,7 @@ Unless you've had some basic grammar study and a bit of immersion experience, so
 * Then look up the grammar points you come across in your immersion and create cards as necessary. The more you immerse and look stuff up, the more you'll start to get a feel of what structures look like a grammar point, tbh, you'd probably surprised that what looks like some random string of hiragana scribbles actually turns out to be a grammar point.  
   
 * When you common across patterns without an adequate explanation inside the grammar dicts/monolingual dicts, just right click whatever it is that yomichan parsed and do a google search (something like `<grammar_pt> 文法解説`). I use a plugin called [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) to make such searches easier.
+* Keep in mind that the main reason that I made these dictionaries is because I dislike the 10 seconds it takes to google a grammar point, which you aren't even sure is a grammar point. Also when googling `<grammar_pt> 文法解説`, they almost always point to the same 2-4 sites anyway, so why not turn those sites into a yomichan dictionary.
 
 
 
