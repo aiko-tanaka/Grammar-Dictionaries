@@ -8,7 +8,7 @@
 Website | Yomichan dict name | Deconjugation support | 
 :-- | :-- | :-- 
 [nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Y  
-[nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | N  
+[nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Y  
 [donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Y  
 [dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | N  
 
@@ -80,7 +80,7 @@ For all dictionaries: I used web scraping for all of the dicts except DOJG so th
 ### DOJG
 Incomplete readings(there might be some entries where the dictionary entry is also the reading), incomplete entries (particularly for `基本`), no deconjugation/p.o.s. info
 ### Nihongo Kyoushi
-No deconjugation/p.o.s. info, missing entries (e.g. 〜上で（〜てから）), some entries have the example sentences cut off, some entries might have ads at the end; also, some entries have wildly differing HTML structures (e.g. some use tables, some have more than one 例文 sections), etc.
+Some entries have the example sentences cut off, some entries might have ads at the end; also, some entries have wildly differing HTML structures (e.g. some use tables, some have more than one 例文 sections), etc., might have a few missing entries from N4, N5 that i didn't bother to add
 ### Donna Toki
 Might have a few entries missing, incomplete kanjification (all of donna toki's entries are in hiragana, I converted some of them into kanji but not all)
 ### Nihongo no Sensei
