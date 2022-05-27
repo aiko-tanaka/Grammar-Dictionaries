@@ -63,7 +63,7 @@ Remember to share them though, even if they're just barebones :D
 
 
 ## For those interested in the inner workings of the dicts:  
-* The 4th entry of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, adj-i, empty=noun)`. It's responsible for yomichan's deconjugation stuff.
+* The [4th entry](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/nihongo_kyoushi/term_bank_1.json#L270) of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, adj-i, empty=noun)`. It's responsible for yomichan's deconjugation stuff.
 
 ## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
 * (Send me a message first if you plan to edit any of the dicts just to ensure that we aren't doing something redundant, I'm currently editing nihongo kyoushi, might take a few months)
