@@ -1,5 +1,5 @@
 # Yomichan Grammar Dictionaries
-Read the [guide](#guide) below if you're a bit confused on how to use grammar dictionaries with Yomichan.
+Read the [How to use](##How to use) section below if you're a bit confused on how to use grammar dictionaries with Yomichan.
 
 [Link to the Dictionaries](https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq)
 
@@ -22,7 +22,7 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 * **Nihongo no sensei** - most complete of the four with the best formatting; clickable links; I also suggest you download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese  
 
 
-## How to study grammar/how to use the dicts
+## How to use
 ### Usage   
 * (For beginners) Go through a basic grammar guide first, even with these dicts in hand.  
 Unless you've had some basic grammar study and a bit of immersion experience, some of the dictionaries might simply confuse you so do that first.
