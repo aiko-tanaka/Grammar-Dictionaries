@@ -65,7 +65,7 @@ Remember to share them though, even if they're just barebones :D
 ## For those interested in the inner workings of the dicts:  
 * The [4th entry](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/nihongo_kyoushi/term_bank_1.json#L270) of a dictionary entry represents its `part of speech(p.o.s.)` `(e.g. vs, vk, v1, v5, adj-i, empty=noun)`. It's responsible for yomichan's deconjugation stuff.
 
-## For those interested in completing the DOJG and Nihongo Kyoushi dicts, these are what you'll need to do:  
+## For those interested in completing the DOJG dict:  
 * (Send me a message first if you plan to edit any of the dicts just to ensure that we aren't doing something redundant)
 
 1. Complete the part of speech info (classify according to these: `vs, vk, v1, v5, vz, adj-i`), afaik, only these 6 part of speech markers work with yomichan (according to the [yomichan deinflection rules](https://github.com/FooSoft/yomichan/blob/master/ext/data/deinflect.json) or [the schema](https://github.com/FooSoft/yomichan/blob/master/ext/data/schemas/dictionary-term-bank-v3-schema.json#L304)), if it's a noun or already conjugated, leave it blank
@@ -75,7 +75,8 @@ However, for example the grammar point [ないこともない](https://github.co
 4. Send a PR I guess
 
 ## Corrections / Incomplete Info
-For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes. 
+For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes.  
+Send me a message or open an issue if you find any corrections, missing entries, etc. Might take a while to update though cause I'm lazy.
 
 ### DOJG
 Incomplete readings(there might be some entries where the dictionary entry is also the reading), incomplete entries (particularly for `基本`), no deconjugation/p.o.s. info
