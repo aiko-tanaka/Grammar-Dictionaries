@@ -9,6 +9,7 @@
 Website | Yomichan dict name | Deconjugation support | 
 :-- | :-- | :-- 
 [nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Y  
+[e de wakaru](https://www.edewakaru.com/archives/cat_179055.html) | 絵でわかる日本語 | Y  
 [nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Y  
 [donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Y  
 [dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | N  
@@ -19,7 +20,8 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 * **DOJG** - the first dict I made. Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links  
 * **Donna Toki** - non-clickable external links  
 * **Nihongo Kyoushi** - I used a different web scraping script here (as opposed to Nihongo no sensei), as a result some of the entries might have missing examples sentences, but whatever, just click the links; clickable links  
-* **Nihongo no sensei** - most complete of the four with the best formatting; clickable links; I also suggest you download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese  
+* **Nihongo no sensei** - most complete of the 5 with the best formatting; clickable links; I also suggest you download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese  
+* **E de wakaru** - really good example sentences because most of the time they rephrase sentences so you can better understand them (my second most preferred grammar dict next to nihongo kyoushi)
 
 
 ## How to use
