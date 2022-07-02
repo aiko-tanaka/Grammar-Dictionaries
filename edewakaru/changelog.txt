@@ -1,0 +1,8 @@
+CHANGELOG
+
+-----------------
+
+edewakaru v 1.01
+- kanjification
+- clean entries
+- p.o.s.
