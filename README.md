@@ -38,6 +38,8 @@ Unless you've had some basic grammar study and a bit of immersion experience, so
 * When you common across patterns without an adequate explanation inside the grammar dicts/monolingual dicts, just right click whatever it is that yomichan parsed and do a google search (something like `<grammar_pt> 文法解説`). I use a plugin called [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) to make such searches easier.
 * Keep in mind that the main reason that I made these dictionaries is because I dislike the 10 seconds it takes to google a grammar point, which you aren't even sure is a grammar point. Also when googling `<grammar_pt> 文法解説`, they almost always point to the same 2-4 sites anyway, so why not turn those sites into a yomichan dictionary. With that said, do not expect to find a lot of info about grammar inside these dictionaries. Most immersion learners would probably agree anyway that these grammar points aren't even grammar most of the time, instead, they're usually common phrases, expression strategies or even vocabulary.
 
+* You might want to check [this](https://github.com/FooSoft/yomichan/issues/2168) out if you want to keep dictionary definitions concise by using yomichan's collapsed dictionaries feature + some CSS.
+
 
 
 ### Limitations 
