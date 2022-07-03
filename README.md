@@ -7,7 +7,7 @@
 
 ## The dicts
 Website | Yomichan dict name | Info | Deconjugation support | 
-:-- | :-- | :-- 
+:-- | :-- | :-- | :-- 
 [Nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | most complete of the 5 with the best formatting; clickable links; I also suggest you download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese | Y  
 [E de wakaru](https://www.edewakaru.com/archives/cat_179055.html) | 絵でわかる日本語 | Really good example sentences because most of the time they rephrase sentences so you can better understand them (my second most preferred grammar dict next to nihongo kyoushi) | Y  
 [Nihongo Kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Some of the entries might have missing examples sentences, but whatever, just click the links; clickable links  | Y  
