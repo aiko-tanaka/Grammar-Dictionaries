@@ -1,0 +1,8 @@
+1.04
+some kanjification
+
+1.03
+complete part of speech indicators
+
+1.02
+use yomichan's URL struct content
