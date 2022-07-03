@@ -5,7 +5,7 @@
 
 [Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
-## The dicts
+## Overview
 Website | Yomichan dict name | Info | Deconjugation support | 
 :-- | :-- | :-- | :-- 
 [Nihongo no sensei](https://nihongonosensei.net/?page_id=10246) | 毎日のんびり日本語教師 | Although the site was made primarily for Chinese students studying Japanese, you might still find some value in this dictionary as a filler (and for deconjugation); although you might want to download a few of shoui's chinese dicts just for this specific dict because its `意味` section is in chinese, its 解説 section is still in Japanese | Y  
@@ -15,6 +15,10 @@ Website | Yomichan dict name | Info | Deconjugation support |
 [DoJG](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | Written in English so this is great for beginners.  The first dict I made.  Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links | N  
 
 *If some of the dicts fail to import, check that you're using at least Yomichan version `22.4.4.0`.*
+
+### Which dictionaries do I install?
+Depends of your needs but I have all of them installed. Do note that these dictionaries are much smaller in size than full-fledged dictionaries like 大辞林, they barely affect the performance of your device if at all. In fact, I have a pathetic 6+ year old android phone with Kiwi + TTU + Yomichan with around 10 monolingual dictionaries and all of these grammar dicts and it runs just fine.  
+If you're a beginner, I'd still recommend that you install at least two grammar dictionaries for parsing purposes. If you can't understand what the dictionary is saying you can always try asking through discord, language exchange apps or DeepL. (In fact I recommend that you install a lot of monolingual dicts even if you're a beginner just for parsing).
 
 
 ## How to use
