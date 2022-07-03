@@ -72,7 +72,7 @@ However, for example the grammar point [ないこともない](https://github.co
 4. Send a PR I guess
 
 ## Corrections / Incomplete Info
-For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes.  
+For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/edewakaru/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes.  
 Send me a message or open an issue if you find any corrections, missing entries, etc. Might take a while to update though cause I'm lazy.
 
 ### DOJG
