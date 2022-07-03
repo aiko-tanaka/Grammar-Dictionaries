@@ -12,7 +12,7 @@ Website | Yomichan dict name | Deconjugation support |
 [e de wakaru](https://www.edewakaru.com/archives/cat_179055.html) | 絵でわかる日本語 | Y  
 [nihongo kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Y  
 [donna toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Y  
-[dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | N  
+[dojg](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) - the first dict I made. Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links  | N  
 
 ### **Additional dict info:**   
 If some of the dicts fail to import, check that you're using at least Yomichan version `22.4.4.0`.
@@ -28,14 +28,14 @@ If some of the dicts fail to import, check that you're using at least Yomichan v
 ### Usage   
 
 #### For beginners
-* () Go through a basic grammar guide first, even with these dicts in hand.  
+* Go through a basic grammar guide first, even with these dicts in hand.  
 Unless you've had some basic grammar study and a bit of immersion experience, some of the dictionaries might simply confuse you so do that first.
-* (For beginners) I recommend going through Tae Kim first, then Cure Dolly. 
-* (For beginners) For Cure Dolly in particular I recommend that you at least go through the first 20-30 or so videos just so that when you come across a grammar point, you aren't just blindly memorizing 'rules', instead you realize that most of the time, these 'grammar points' can make sense when you look at their components.  
+* I recommend going through Tae Kim first, then Cure Dolly. 
+* For Cure Dolly in particular I recommend that you at least go through the first 20-30 or so videos just so that when you come across a grammar point, you aren't just blindly memorizing 'rules', instead you realize that most of the time, these 'grammar points' can make sense when you look at their components.  
   
-  
-* Skim through a list of grammar points to get a feel for what they look like. (i.e. go to one of the sites I listed above and try hovering over those grammar points, then try hovering over the grammar points in the context of the sentence, similar to what I did on my youtube demo).
-* Then look up the grammar points you come across in your immersion and create cards as necessary. The more you immerse and look stuff up, the more you'll start to get a feel of what structures look like a grammar point, tbh, you'd probably surprised that what looks like some random string of hiragana scribbles actually turns out to be a grammar point.  
+#### For non-beginners
+* Skim through a list of grammar points to get a feel for what they look like. (i.e. go to one of the sites I listed above and try hovering over those grammar points, then try hovering over the grammar points in the context of the sentence, similar to what I did on my youtube demo). Grinding a grammar deck also helps.
+* Look up the grammar points you come across in your immersion and create cards as necessary. The more you immerse and look stuff up, the more you'll start to get a feel of what structures look like a grammar point, tbh, you'd probably surprised that what looks like some random string of hiragana scribbles actually turns out to be a grammar point.  
   
 * When you common across patterns without an adequate explanation inside the grammar dicts/monolingual dicts, just right click whatever it is that yomichan parsed and do a google search (something like `<grammar_pt> 文法解説`). I use a plugin called [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) to make such searches easier.
 * Keep in mind that the main reason that I made these dictionaries is because I dislike the 10 seconds it takes to google a grammar point, which you aren't even sure is a grammar point. Also when googling `<grammar_pt> 文法解説`, they almost always point to the same 2-4 sites anyway, so why not turn those sites into a yomichan dictionary. With that said, do not expect to find a lot of info about grammar inside these dictionaries. Most immersion learners would probably agree anyway that these grammar points aren't even grammar most of the time, instead, they're usually common phrases, expression strategies or even vocabulary.
