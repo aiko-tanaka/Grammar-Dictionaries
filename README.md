@@ -1,7 +1,7 @@
 # Yomichan Grammar Dictionaries
 **Read the [How to use](#How-to-use) section below if you're a bit confused on how to use grammar dictionaries with Yomichan.**
 
-[Link to the Dictionaries](https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq)
+[Download Link](https://drive.google.com/drive/folders/1zLqkD6KTf7c6jHp3gzJQtHYWdLhN72Bq)
 
 [Youtube Demo](https://www.youtube.com/watch?v=EkgBnkupuVQ) **(turn the captions on)**
 
