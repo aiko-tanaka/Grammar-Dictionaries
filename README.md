@@ -18,9 +18,9 @@ Website | Yomichan dict name | Info | Deconjugation support |
 
 ### Which dictionaries do I install?
 * Depends of your needs but I have all of them installed. Do note that these dictionaries are much smaller in size than full-fledged dictionaries like 大辞林, they barely affect the performance of your device if at all. In fact, I have a pathetic 6+ year old android phone with Kiwi + TTU + Yomichan with around 10 monolingual dictionaries and all of these grammar dicts and it runs just fine.  
-* If you're a beginner, I'd still recommend that you install at least two grammar dictionaries for parsing purposes. If you can't understand what the dictionary is saying you can always try asking through discord, language exchange apps or DeepL. (In fact I recommend that you install a lot of monolingual dicts even if you're a beginner just for parsing).
+* If you're a beginner, I'd still recommend that you install at least two grammar dictionaries for parsing purposes. If you can't understand what the dictionary is saying you can always try asking through discord, language exchange apps or DeepL. (In fact I recommend that you install a lot of monolingual dicts even if you're a beginner just for parsing).  
 
-*Install the dictionaries like you would install any other Yomichan dictionary*
+*Note: No special settings or installation procedures required, simply Install the dictionaries like you would install any other Yomichan dictionary*
 
 
 ## How to use
