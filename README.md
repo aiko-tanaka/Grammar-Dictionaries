@@ -79,6 +79,8 @@ However, for example the grammar point [ないこともない](https://github.co
 For all dictionaries: I used web scraping for all of the dicts except DOJG so there might be a few missing entries and parsing mistakes. For some of the entries, I used a [script](https://github.com/aiko-tanaka/Grammar-Dictionaries/blob/main/scraping_scripts/edewakaru/util.py) to generate the reading when the reading info isn't available, so look out for reading mistakes.  
 Send me a message or open an issue if you find any corrections, missing entries, etc. Might take a while to update though cause I'm lazy.
 
+### E de wakaru  
+I used these links (https://www.edewakaru.com/archives/cat_116822.html, https://www.edewakaru.com/archives/cat_116821.html, https://www.edewakaru.com/archives/cat_116866.html) instead of [this](https://www.edewakaru.com/archives/7183537.html), assuming that everything in the latter is also in the former. Turns out that wasn't the case since there are quite a few entries from the latter link not present in the former.
 ### DOJG
 Incomplete readings(there might be some entries where the dictionary entry is also the reading), incomplete entries (particularly for `基本`), no deconjugation/p.o.s. info
 ### Nihongo Kyoushi
