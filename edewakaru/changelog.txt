@@ -1,7 +1,10 @@
 CHANGELOG
 
 -----------------
+edewakaru v 1.03
+- added missing entries, added their pos using a script
 
+-----------------
 edewakaru v 1.01
 - kanjification
 - clean entries
