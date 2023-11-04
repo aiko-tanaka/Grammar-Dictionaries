@@ -12,7 +12,7 @@ Website | Yomichan dict name | Info | Deconjugation support |
 [E de wakaru](https://www.edewakaru.com/archives/cat_179055.html) | 絵でわかる日本語 | Really good example sentences because most of the time they rephrase sentences so you can better understand them (my second most preferred grammar dict next to nihongo kyoushi) | Y  
 [Nihongo Kyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) | JLPT文法解説まとめ | Probably the best overall of the grammar dicts, although I feel that for most of its entries, it doesn't go too deep into nuances but is really great for quick lookups. I usually cross-reference the definitions and explanations with other monolingual dicts if I feel this dict doesn't cover it that much. Some of the entries might have missing examples sentences, but whatever, just click the links | Y  
 [Donna Toki](https://itazuraneko.neocities.org/grammar/donnatoki/mainentries.html) | どんなときどう使う 日本語表現文型辞典 | Written both in English and Japanese.  Most of its Japanese definitions are written as 類義語 so they're great for quick lookups but it also has explanations and further notes at the end which might go deeper into the nuances of the grammar point | Y  
-[DoJG](https://itazuraneko.neocities.org/grammar/dojgmain.html) | 日本語文法辞典(全集) | Written in English so this is great for beginners.  The first dict I made.  Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links | N  
+DoJG | 日本語文法辞典(全集) | Written in English so this is great for beginners.  The first dict I made.  Its entries aren't complete since I made this dict from the itazuraneko anki deck (as opposed to web scraping, which i used on the other dicts). I manually removed some entries which I thought were too easy and might simply clog your yomichan search results; Incomplete readings; no external links | N  
 
 *If some of the dicts fail to import, check that you're using at least Yomichan version `22.4.4.0`.*
 
@@ -62,7 +62,6 @@ Remember to share them though, even if they're just barebones :D
 * https://jn1et.com/jlpt/  
 * https://nihon5-bunka.net/japanese-grammars/  
 * https://japanese-bank.com/jlpt-grammar-all/  
-* https://itazuraneko.neocities.org/grammar/masterreference.html#handbook  
 
 
 ## For those interested in the inner workings of the dicts:  
